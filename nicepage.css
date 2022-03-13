@@ -36376,18 +36376,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 100px;
+    min-height: 167px;
   }
 
   .u-header .u-text-1 {
     margin-top: 18px;
-    margin-left: -51px;
-    margin-right: -51px;
   }
 
   .u-header .u-text-2 {
-    margin-top: 0;
-    margin-bottom: 18px;
+    width: auto;
+    margin-top: 18px;
+    margin-bottom: 27px;
   }
 }
  .u-footer {
